@@ -1,0 +1,14 @@
+3---Inheritance---Dynamic Binding---Java---
+Programming Systems : CS202---09/09/2020---12/12/2020---Sean Siders---
+VIDEO---0---C++ refresher---Sean Siders---09/09/2020---09/25/2020---.75---"Remember how to code?"---
+VIDEO---0---Recursion practice---Sean Siders---09/09/2020---09/25/2020---.5---"Find your base case people"---
+QUIZ_VIDEO---0---Building a hierarchy---Sean Siders---09/09/2020---09/25/2020---1.75---"Here's how to build a class hierarchy..."---1---1.02---1---true---Write the code to inherit a class Derived from the class Base.---1---class Derived : public Base---And that's all it takes!---
+QUIZ---0---Inheritance Quiz---Sean Siders---09/09/2020---09/25/2020---2---true---When is a copy constructor needed?---2---when a class has dynamic memory---when a parent has dynamic memory---When there is dynamic memory you gonna need it!---Write the code to invoke a parent's copy constructor.---1---child::child(const parent& source) : parent(source) {}---Ya gotsa explicitly invoke dat---
+FORUM---0---Inheritance discussion---Sean Siders---09/09/2020---09/25/2020---What is a real-world application that could benefit the use of OOP using a single hierarchy?---
+VIDEO---1---Upcasting---Sean Siders---09/09/2020---10/15/2020---2.5---"Here's how you upcast..."---
+QUIZ_VIDEO---1---Upcasting code examples---Sean Siders---09/09/2020---10/15/2020---1.2---"Let's do some upcasting in C++..."---1---.75---1---true---Show a code example of upcasting.---1---Base* media = new Derived;---"That's all folks"---
+FORUM---1---Upcasting check in---Sean Siders---09/09/2020---10/15/2020---How do you feel about dynamic binding?---
+QUIZ---1---Dynamic Binding Quiz---Sean Siders---09/09/2020---10/15/2020---2---true---What keyword is required for a derived function to be called in dynamic binding?---1---virtual---just use the virtual keyword dude---Can you make an object of an abstract base class?---1---no---nope---
+FORUM---2---Java Thoughts---Sean Siders---09/09/2020---10/30/2020---What do you guys know about Java?---
+VIDEO---2---Java Crash Course---Sean Siders---09/09/2020---10/30/2020---5.5---"Welcome to the world of Java..."---
+FORUM---2---Java Reflections---Sean Siders---09/09/2020---10/30/2020---Now what do you guys know about Java?? Are you smarter yet???---

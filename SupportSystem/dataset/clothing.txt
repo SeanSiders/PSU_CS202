@@ -1,0 +1,10 @@
+01/14/2020|T-Shirts|Marnie Harlow|5|Neutral|X-Small|Good
+01/12/2020|Tank Tops|Haio Blem|2|Female|Medium|New
+02/09/2020|Jackets|Sadie Wade|4|Neutral|Toddler 3 Yrs|Mint
+01/01/2020|Raincoat|Light Yagami|1|Male|Medium|Mint
+01/16/2020|Shoes|Nyle Wren|1|Men's|8.5 US|New
+03/04/2020|Snow Pants|Jack White|10|Male|X-Large|New
+02/13/2020|Wool Socks|Bill Clinton|29|Neutral|Large|Poor
+12/29/2019|Under Armor|Vin Diesal|1|Male|X-Large|Poor
+02/22/2020|Rain Hats|Marilyn Felt|5|Female|Medium|Mint
+04/05/2020|Pants|Tony Bologna|5|Male|Medium|New
